@@ -1,0 +1,10 @@
+Table
+Registration:
+
+UsedId
+Name
+Password
+Confirm Password
+Email
+Mobile Number
+Address(While time of booking)
